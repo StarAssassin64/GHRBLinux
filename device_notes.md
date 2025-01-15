@@ -38,25 +38,15 @@ select - 8
 home - 12
 
 
-# DPad | Axis 9
+# DPad | Axis 4 5
 
-up - -1
+up = -32767 | 
+down = 32767 | Axis 5
 
-down - .14286
+right = 32767 | 
+down = -32767 | Axis 4
 
-left - .71429
 
-right - -.42857
-
-up-left - 1
-
-up-right - -.71429
-
-down-left - .42857 
-
-down-right - -.14286
-
-none - 1.28571
 
 # LEDs Memory Location
 
