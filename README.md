@@ -20,3 +20,4 @@ GHRBLinux will be developed in [Rust](https://github.com/rust-lang/rust)
 
 [Paroj](https://github.com/paroj) - Creator of [XPAD](https://github.com/paroj/xpad) (The standard kernal driver for xbox related controllers written in C)
 
+[abstrakraft](https://github.com/abstrakraft) - Creator of [cwiid](https://github.com/abstrakraft/cwiid) (A driver made to handle Wii HID's)
