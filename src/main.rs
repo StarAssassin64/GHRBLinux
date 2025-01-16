@@ -1,9 +1,11 @@
-#![no_std]
-#![global_allocator]
+fn main() {
+    for device in rusb::devices().unwrap().iter() {
+        let device_desc = device.device_descriptor().unwrap();
 
-extern crate alloc;
-use crate::alloc::string::{String, ToString};
-use linux_kernel_module::c_types;
-use linux_kernel_module::println;
-
-fn main() {}
+        println!("Bus {:03} Device {:03} ID {:04x}:{:04x}",
+        device.bus_number(),
+        device.address(),
+        device_desc.vendor_id(),
+        device_desc.product_id());
+    }
+}
