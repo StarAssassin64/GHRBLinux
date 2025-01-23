@@ -1,0 +1,1 @@
+savedcmd_/home/stara/Documents/school/CSProjects/GHRBLinux/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/stara/Documents/school/CSProjects/GHRBLinux/Module.symvers -n -T /home/stara/Documents/school/CSProjects/GHRBLinux/modules.order -i Module.symvers -e 
