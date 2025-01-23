@@ -1,3 +1,20 @@
+enum Buttons {
+    button0 = 0x00090001,
+    button1,
+    button2,
+    button3,
+    button4,
+    button5,
+    button6,
+    button7,
+    button8,
+    button9,
+    button10,
+    button11,
+    button12,
+}
+
+
 struct GamepadInfo {
     gpd_button0 : u8,    // Usage 0x00090001: Button 0 Primarry, Value = 0 to 1, Physical = Value
     gpd_button1 : u8,    // Usage 0x00090002: Button 1 Seconday, Value = 0 to 1, Physical = Value 
