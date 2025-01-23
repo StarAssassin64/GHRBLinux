@@ -8,7 +8,7 @@ This was originally written in rust, so things will be transfered over, keeping 
 ## Project Introduction ##
 This will be my project for CS Projects
 
-GHRBLinux will be developed in ~Rust~ C++
+GHRBLinux will be developed in ~Rust~ C/C++
 
 ## Functions ##
 
