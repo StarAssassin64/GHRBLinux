@@ -1,18 +1,28 @@
+
+
+## UPDATE ##
+I am struggling on how to use rust and deal with usb devices properly. Documentation kinda sucks, so I will be switching over to C++, which has a better way into the linux kernel and better documentation when it comes to gamepad inputs
+
+This was originally written in rust, so things will be transfered over, keeping credits for while I was in rust as it still gave me a starting ground
+
+
 This will be my project for CS Projects
 
-GHRBLinux will be developed in [Rust](https://github.com/rust-lang/rust)
+GHRBLinux will be developed in ~Rust~ C++
 
 ## Functions ##
 
-* Take input from a wireless XInput guitar controller (Xbox 360)
-    - This will be from the Wireless Xbox 360 Controller Adapter for PC (or similar products like mine)
 * Take input from a wired ION Drum Rocker for the WII
 * Give the computer gamepad instructions for said controllers
 
 ## Use ##
 
-* This will be used for me to be able to play [Clone Hero](https://www.clonehero.net) on my linux laptop with my controllers, making sure everything works properly
-* I do not know if things worked prior, but I want to make sure my controllers work perfectly in linux
+* This will be used for me to be able to play [Clone Hero](https://www.clonehero.net) on my linux laptop with my rock band drumset, making sure everything works properly
+* The device works in a really weird way, which causes it to be a really annoying device to debug and use in games where I set the controls myself. This will ensure that the device works and anyone who somehow has the same controller as me can
+play on linux
+
+## Potential Future Functions ##
+* Reimplement the GH5/BH Wireless xbox 360 guitar controller
 
 ## Credits ##
 
