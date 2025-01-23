@@ -106,12 +106,3 @@ down - button 16
 left - button 17
 
 right - button 18
-
-up-right - button 19
-
-up-left - button 20
-
-down-right - button 21
-
-down-left - button 22
-
