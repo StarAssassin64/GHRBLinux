@@ -1,11 +1,11 @@
 
 
-## UPDATE ##
+## MAJOR UPDATE ##
 I am struggling on how to use rust and deal with usb devices properly. Documentation kinda sucks, so I will be switching over to C++, which has a better way into the linux kernel and better documentation when it comes to gamepad inputs
 
 This was originally written in rust, so things will be transfered over, keeping credits for while I was in rust as it still gave me a starting ground
 
-
+## Project Introduction ##
 This will be my project for CS Projects
 
 GHRBLinux will be developed in ~Rust~ C++
