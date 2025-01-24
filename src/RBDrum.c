@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-struct ControllerLayout
+struct usb_host_interface
 {
     uint8_t BTN_GPB0 :  1;  // a            0x00090001: Primary, Value = 0 to 1, Physical = Value
     uint8_t BTN_GPB1 :  1;  // b            0x00090002: Secondary, Value = 0 to 1, Physical = Value
@@ -22,8 +22,8 @@ struct ControllerLayout
 
 enum LEDs
 {
-    LED1 = 0x10,
-    LED2 = 0x20,
-    LED3 = 0x40,
-    LED4 = 0x80,
+    LED1 = 0x01,
+    LED2 = 0x02,
+    LED3 = 0x04,
+    LED4 = 0x08,
 };
