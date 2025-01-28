@@ -1,0 +1,38 @@
+HID Data: 000008808080800000000000000000000000000002000200020002
+    .... ...0 = Button: 1 (primary/trigger): UP
+    .... ..0. = Button: 2 (secondary): UP
+    .... .0.. = Button: 3 (tertiary): UP
+    .... 0... = Button: 4: UP
+    ...0 .... = Button: 5: UP
+    ..0. .... = Button: 6: UP
+    .0.. .... = Button: 7: UP
+    0... .... = Button: 8: UP
+    .... ...0 = Button: 9: UP
+    .... ..0. = Button: 10: UP
+    .... .0.. = Button: 11: UP
+    .... 0... = Button: 12: UP
+    ...0 .... = Button: 13: UP
+    Padding: 00
+    .... 1000 = Usage: Hat switch: 8
+    Padding: 00
+    1000 0000 = X Axis: 128
+    1000 0000 = Y Axis: 128
+    1000 0000 = Z Axis: 128
+    1000 0000 = Rz Axis: 128
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 00
+    Vendor Data: 0002
+    Vendor Data: 0002
+    Vendor Data: 0002
+    Vendor Data: 0002
+
