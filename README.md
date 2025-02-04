@@ -1,3 +1,20 @@
+## Deprecation and Archiving ##
+
+I am switching what I am doing for my project completely so I will be archiving this project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## MAJOR UPDATE ##
